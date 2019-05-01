@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.68857145" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="Java" />
+    <property name="InstalledPluginsSearchHistory" value="uml&#10;sequence diag&#10;se" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="sequence&#10;sequence diag&#10;font&#10;color" />
+    <property name="TrendingPluginsSearchHistory" value="pla&#10;sequence&#10;s" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/apache-tomcat-9.0.17-windows-x64/apache-tomcat-9.0.17&#10;C:/Users/Tobia/IdeaProjects/DTU-CDIO3/out&#10;C:/Users/Tobia/IdeaProjects/cdio3/out&#10;C:/Users/Tobia/IdeaProjects/cdio3/DTU-CDIO3&#10;C:/Users/Tobia/Downloads/apache-tomcat-9.0.17-windows-x64&#10;C:/Users/Tobia/IdeaProjects/DTU-CDIO-02324&#10;C:/Users/Tobia/Downloads&#10;C:/Users/Tobia/Downloads/SequenceDiagram-1.2.8/SequenceDiagram/lib/SequencePlugin-1.2.8.jar&#10;C:/Users/Tobia/Downloads/SequenceDiagram-1.2.8/SequenceDiagram/lib&#10;C:/Users/Tobia/IdeaProjects/cdio2&#10;C:/Users/Tobia/Desktop&#10;C:/Users/Tobia/Desktop/Main.uml&#10;C:/Users/Tobia/Downloads/SequenceDiagram-1.2.8&#10;C:/Users/Tobia/IdeaProjects/02327Aflevering2&#10;C:/Users/Tobia/IdeaProjects/Databaser_Aflevering&#10;C:/Users/Tobia/Downloads/CDIO2_VegtSimulator&#10;C:/Documents and Settings&#10;C:/Users/Tobia/IdeaProjects/Test-CDIO2-Del2/out&#10;C:/Users/Tobia/IdeaProjects/Test-CDIO2-Del2/src&#10;C:/Users/Tobia/IdeaProjects/Test-CDIO2-Del2&#10;C:/Users/Tobia/OneDrive/Dokumenter/Dtu/Videregående programmering/zip-filer/CDIO2_VegtSimulator/src/controller&#10;C:/Users/Tobia/OneDrive/Dokumenter/Dtu/Videregående programmering/zip-filer/CDIO2_VegtSimulator&#10;C:/Users/Tobia/IdeaProjects/BMI&#10;C:/Users/Tobia/Downloads/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15&#10;C:/Users/Tobia/Downloads/mysql-connector-java-8.0.15&#10;C:/Users/Tobia/Downloads/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar&#10;C:/Users/Tobia/Downloads/02_ingrediensAdministration&#10;C:/Users/Tobia/IdeaProjects/CDIO_semester_2" />
+    <property name="file.gist.reindex.count" value="125" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_191" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/CDIO2_VegtSimulator" />
+    <property name="lastTip" value="83" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads/SequenceDiagram-1.2.8/SequenceDiagram/lib" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="SELECTION_FOREGROUND" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
